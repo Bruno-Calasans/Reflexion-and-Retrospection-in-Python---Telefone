@@ -1,0 +1,85 @@
+0 Smartfone
+Xiaomi
+mi 12
+3397
+0
+Smartfone
+Redmi
+mi 12
+1250
+0
+Smartfone
+Realme
+mi 12
+1722.45
+0
+Celular
+Samsung
+Galaxy s23
+200.1
+0
+Smartfone
+Samsung
+Galaxy S23
+4650.11
+0
+Smartfone
+Samsung
+galaxy S23
+3099.09
+0
+Smartfone
+Nokia
+G11
+815.05
+0
+Smartfone
+Nokia
+G60
+1439.98
+0
+Celular
+Siemens
+A50
+105.59
+0
+Celular
+Siemens
+A52
+80.99
+0
+Celular
+Siemens
+C65
+83.19
+0
+Celular
+Nokia
+1100
+107.55
+0
+Celular
+Nokia
+G60
+265.87
+0
+Celular
+Nokia
+3310
+1259,99
+0
+Celular
+Samsung
+S3
+308.49
+0
+Smartfone
+Samsung
+S3
+638.00
+1
+2
+0
+marca_,_modelo
+Nokia!
+S3.
